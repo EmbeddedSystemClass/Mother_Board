@@ -11,7 +11,7 @@ The main features are:
 * EEPROM (AT24C08) stores calibration data for each robot.
 * Serial port (MAX232CSE) for communication with PC.
 
-The photos of the motor driver board are shown below as references. 
+The photos of the mother board are shown below as references. 
 
 ![](./Images/Mother_Board_Front_Shrinked.jpg)
 
